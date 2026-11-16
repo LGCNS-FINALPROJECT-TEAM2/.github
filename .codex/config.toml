@@ -1,0 +1,4 @@
+# 팀 하네스: Codex 저장소 설정. 팀원이 이 저장소를 「신뢰한 프로젝트」로 지정했을 때만 적용된다(Codex 규칙).
+# 쓰기는 작업 폴더 안에서만, 그 밖의 위험한 동작은 매번 사람에게 확인한다. 금지 규칙 문장은 AGENTS.md 1절 · 5절.
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
